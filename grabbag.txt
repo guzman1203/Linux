@@ -1,0 +1,7 @@
+This is a good idea 
+What about this? 
+this goes here... 
+...here goes this 
+Middle of this...
+In java this.methodname works
+
